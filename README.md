@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Rodrigo da Rosa
-- RA: xxxxxxxxxxxxx
+- Nome: Higor Luiz Fonseca dos Santos
+- RA: 24026818
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
