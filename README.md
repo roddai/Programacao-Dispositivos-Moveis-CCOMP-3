@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Rodrigo da Rosa
-- RA: xxxxxxxxxxxxx
+- Nome: João Victor de Faria
+- RA: 24026811
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
