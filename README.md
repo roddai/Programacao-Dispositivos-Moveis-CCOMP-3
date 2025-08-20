@@ -3,7 +3,7 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Breno Costa do Nascimento
+- Nome: Breno  Costa do Nascimento
 - RA: 240267-53
 - Curso: CCOMP – 3º Semestre
 
