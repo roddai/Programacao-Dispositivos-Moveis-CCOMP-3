@@ -5,7 +5,7 @@ Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 ## 👨‍💻 Desenvolvedor
 - Nome: Bruno Souza Lima
 - RA: 24026560
-- Curso: CCOMP – 3º Semestre
+- Curso: CCOMP – 3ºSemestre
 
 ## 📅 Data
 - Data da criação: 20/08/2025
