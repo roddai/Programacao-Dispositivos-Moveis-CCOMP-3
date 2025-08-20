@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76c024f5-c546-498b-9ebb-2bc4924a93b2" name="Changes" comment="">
+    <list default="true" id="76c024f5-c546-498b-9ebb-2bc4924a93b2" name="Changes" comment="Primeiro Commit">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +52,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "#8 on master",
+    "git-widget-placeholder": "vinicius-branch",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
@@ -66,6 +66,15 @@
       <option name="presentableId" value="Default" />
       <updated>1754525472124</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit">
+      <option name="closed" value="true" />
+      <created>1755732514844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755732514844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit" />
   </component>
 </project>
