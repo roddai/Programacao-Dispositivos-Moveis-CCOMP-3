@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Rodrigo da Rosa
-- RA: xxxxxxxxxxxxx
+- Nome: Bruno Eduardo da Silva Pinho
+- RA: 24026660
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
