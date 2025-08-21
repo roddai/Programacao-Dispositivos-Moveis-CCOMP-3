@@ -1,5 +1,4 @@
-# 📱 Programacao-Dispositivos-Moveis-CCOMP-3
-
+    
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
