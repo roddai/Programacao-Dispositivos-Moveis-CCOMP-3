@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable livro1
+drawable livro2
+drawable livro3
+font aclonica
+font adamina
+id button
+id button2
+id button3
+id imageView
+id imageView2
+id imageView3
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ProjetoAula03
+style Theme.ProjetoAula03
+xml backup_rules
+xml data_extraction_rules
