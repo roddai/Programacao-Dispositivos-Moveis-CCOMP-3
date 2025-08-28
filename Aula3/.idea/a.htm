@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin-when-cross-origin">
+    <script>//<![CDATA[
+      var s = false;
+      function l() {
+        setTimeout(f, 10000);
+        if (document.referrer) {
+          try {
+            var pm = /(^|&|\?)px=([^&]*)(&|$)/i;
+            var px = window.location.href.match(pm);
+            var rs = document.referrer;
+            if (px != null) {
+              if (rs.match(pm))
+                rs = rs.replace(pm, "$1px=" + px[2] + "$3");
+              else if (rs.indexOf("?") != -1)
+                rs = rs + "&px=" + px[2];
+              else
+                rs = rs + "?px=" + px[2];
+            }
+            history.replaceState({}, "Bing", rs);
+            window.addEventListener("pageshow", function(e) { if (e.persisted || (typeof window.performance != "undefined" && window.performance.navigation.type === 2)) window.location.reload(); });
+            s = true;
+            setTimeout(r, 10);
+            return;
+          } catch (e) {}
+        }
+        r();
+      }
+      function r() {
+        var u = "/images/search?q=imagens+livro+android+mobile&id=99A28093D62696878DD89573A767768027CD6667&FORM=IACFIR";
+        if (s)
+          window.location.href = u;
+        else
+          window.location.replace(u);
+      }
+      function f() {
+        document.getElementById("fb").style.display = "block";
+      }
+      //]]>
+    </script>
+  </head>
+  <body onload="l()">
+    <div id="fb" style="display: none">
+      Please <a href="https://www.bing.com/ck/a?!&&p=78297810c3b56ab8dad2d543b384dd23e081d9d3f84c60fd04f10534d7a105f7JmltdHM9MTc1NjI1MjgwMA&ptn=3&ver=2&hsh=4&fclid=130b6f26-5ffa-6ef8-03a3-79615e5a6fd1&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWFnZW5zK2xpdnJvK2FuZHJvaWQrbW9iaWxlJmlkPTk5QTI4MDkzRDYyNjk2ODc4REQ4OTU3M0E3Njc3NjgwMjdDRDY2NjcmRk9STT1JQUNGSVI&ntb=F">click here</a> if the page does not redirect automatically ...
+    </div>
+  </body>
+</html>
