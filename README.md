@@ -1,10 +1,9 @@
-# 📱 Programacao-Dispositivos-Moveis-CCOMP-3
-
+    
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Rodrigo da Rosa
-- RA: xxxxxxxxxxxxx
+- Nome: Eric Victor Bittu Silva
+- RA: 24026820
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
