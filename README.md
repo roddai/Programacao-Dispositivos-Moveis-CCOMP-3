@@ -3,7 +3,7 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: thiffany morais 
+- Nome: thiffany morais
 - RA: 24026974
 - Curso: CCOMP – 3º Semestre
 
