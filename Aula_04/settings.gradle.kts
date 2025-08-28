@@ -19,7 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sodaerro-onerb"
-include(":app")
-include(":app")
+rootProject.name = "aula_04"
 include(":app")
