@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         livro2 = new Livro("Programando o Android - 2ª Edição", "Zigurd Mednieks", 2012);
         livro3 = new Livro("Desenvolvimento Android para Iniciantes: Construa telas de aplicativos Android aprendendo do zero", "Ivo de Abreu Araújo", 2021);
 
-        TextView textInfo = findViewById(R.id.textInfo);
+TextView textInfo = findViewById(R.id.textInfo);
 
         Button button1 = findViewById(R.id.button);
         Button button2 = findViewById(R.id.button2);
