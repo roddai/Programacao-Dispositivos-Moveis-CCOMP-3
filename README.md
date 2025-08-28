@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Felipe Toshio Yamaschita
-- RA: 24026779
+- Nome: Rodrigo da Rosa
+- RA: xxxxxxxxxxxxx
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
