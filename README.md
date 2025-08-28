@@ -3,12 +3,12 @@
 Este é o repositório da disciplina **Programação de Dispositivos Móveis**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: Rodrigo da Rosa
-- RA: xxxxxxxxxxxxx
+- Nome: Vinícius Nishimura Reis
+- RA: 24026962
 - Curso: CCOMP – 3º Semestre
 
 ## 📅 Data
-- Data da criação: 06/08/2025
+- Data da criação: 20/08/2025
 
 ## 📂 Estrutura do projeto
 
